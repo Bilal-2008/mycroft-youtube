@@ -1,0 +1,3 @@
+youtube (play|start|) {{name}}
+play (from youtube|) {{name}}
+search (in|on) youtube {{name}}
